@@ -1,0 +1,10 @@
+{"timestamp":5428402,"category":"browser.usage","name":"interaction","extra":{"source":"nav-bar","glean_timestamp":"1729676644645","flow_id":"{dcfa0c82-4aa7-4652-b7f7-9615bc3f7737}","widget_id":"urlbar-input"}}
+{"timestamp":5429889,"category":"browser.usage","name":"interaction","extra":{"source":"nav-bar","widget_id":"urlbar-input","flow_id":"{dcfa0c82-4aa7-4652-b7f7-9615bc3f7737}","glean_timestamp":"1729676646132"}}
+{"timestamp":5430990,"category":"browser.usage","name":"interaction","extra":{"widget_id":"urlbar-input","source":"nav-bar","flow_id":"{dcfa0c82-4aa7-4652-b7f7-9615bc3f7737}","glean_timestamp":"1729676647234"}}
+{"timestamp":5440137,"category":"browser.usage","name":"interaction","extra":{"source":"nav-bar","flow_id":"{dcfa0c82-4aa7-4652-b7f7-9615bc3f7737}","glean_timestamp":"1729676656381","widget_id":"urlbar-input"}}
+{"timestamp":5441001,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{dcfa0c82-4aa7-4652-b7f7-9615bc3f7737}","source":"nav-bar","widget_id":"urlbar-input","glean_timestamp":"1729676657245"}}
+{"timestamp":5451169,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{dcfa0c82-4aa7-4652-b7f7-9615bc3f7737}","source":"keyboard","glean_timestamp":"1729676667413","widget_id":"key-undoCloseWindow"}}
+{"timestamp":5456370,"category":"browser.usage","name":"interaction","extra":{"glean_timestamp":"1729676672613","flow_id":"{dcfa0c82-4aa7-4652-b7f7-9615bc3f7737}","source":"nav-bar","widget_id":"PanelUI-menu-button"}}
+{"timestamp":5458428,"category":"browser.usage","name":"interaction","extra":{"widget_id":"appMenu-new-private-window-button2","flow_id":"{dcfa0c82-4aa7-4652-b7f7-9615bc3f7737}","source":"app-menu","glean_timestamp":"1729676674672"}}
+{"timestamp":5467675,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{dcfa0c82-4aa7-4652-b7f7-9615bc3f7737}","widget_id":"cmd-closeWindow","glean_timestamp":"1729676683919","source":"tabs-bar"}}
+{"timestamp":5469380,"category":"browser.usage","name":"interaction","extra":{"widget_id":"cmd-closeWindow","flow_id":"{dcfa0c82-4aa7-4652-b7f7-9615bc3f7737}","source":"tabs-bar","glean_timestamp":"1729676685623"}}
